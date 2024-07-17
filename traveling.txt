@@ -7,3 +7,7 @@ bookingdate
 packages
 hotelbooking
 freedays
+
+callservic
+timing of meal
+back to hotel time
